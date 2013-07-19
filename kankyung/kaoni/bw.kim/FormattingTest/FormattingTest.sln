@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormattingTest", "FormattingTest\FormattingTest.csproj", "{BA95B185-5894-437A-B259-49880F719F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionTest", "ExceptionTest\ExceptionTest.csproj", "{8417D144-7D97-4D34-A33A-ACA7358EFDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationTest", "EnumerationTest\EnumerationTest.csproj", "{B2775AAA-356B-43E6-80E0-EA63FF1B117C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA95B185-5894-437A-B259-49880F719F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA95B185-5894-437A-B259-49880F719F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA95B185-5894-437A-B259-49880F719F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA95B185-5894-437A-B259-49880F719F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8417D144-7D97-4D34-A33A-ACA7358EFDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8417D144-7D97-4D34-A33A-ACA7358EFDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8417D144-7D97-4D34-A33A-ACA7358EFDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8417D144-7D97-4D34-A33A-ACA7358EFDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2775AAA-356B-43E6-80E0-EA63FF1B117C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2775AAA-356B-43E6-80E0-EA63FF1B117C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2775AAA-356B-43E6-80E0-EA63FF1B117C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2775AAA-356B-43E6-80E0-EA63FF1B117C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaoniDay2", "KaoniDay2\KaoniDay2.csproj", "{88CD0A0C-E657-4B54-82DB-D9239FA86444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionTest", "ExceptionTest\ExceptionTest.csproj", "{D006C913-5C27-489A-9D1D-4EE56FB1F13D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationTest", "EnumerationTest\EnumerationTest.csproj", "{74E85894-FE44-49C8-8815-56B3774E3E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CD0A0C-E657-4B54-82DB-D9239FA86444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CD0A0C-E657-4B54-82DB-D9239FA86444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CD0A0C-E657-4B54-82DB-D9239FA86444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CD0A0C-E657-4B54-82DB-D9239FA86444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D006C913-5C27-489A-9D1D-4EE56FB1F13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D006C913-5C27-489A-9D1D-4EE56FB1F13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D006C913-5C27-489A-9D1D-4EE56FB1F13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D006C913-5C27-489A-9D1D-4EE56FB1F13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E85894-FE44-49C8-8815-56B3774E3E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E85894-FE44-49C8-8815-56B3774E3E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E85894-FE44-49C8-8815-56B3774E3E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E85894-FE44-49C8-8815-56B3774E3E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
