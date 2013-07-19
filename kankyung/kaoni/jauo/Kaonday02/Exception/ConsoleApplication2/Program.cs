@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ex02
+namespace ConsoleApplication2
 {
     class Program
     {
@@ -12,13 +12,15 @@ namespace ex02
         {
             try
             {
-                //string string1 = "ksdjfkj";
                 Console.WriteLine(args[0]);
+              
             }
             catch (Exception e)
             {
-                Console.WriteLine("Exception at > {0}", e.StackTrace);
+                Console.WriteLine("Exception at {0}", e.StackTrace);
+              
             }
+
         }
-    }                                                                                       
+    }
 }
