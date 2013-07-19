@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{32756D8E-716A-45F5-85B7-5700D1C73F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcetionTest", "ExcetionTest\ExcetionTest.csproj", "{73253869-94E2-4E3E-9068-24D639C33EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32756D8E-716A-45F5-85B7-5700D1C73F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32756D8E-716A-45F5-85B7-5700D1C73F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32756D8E-716A-45F5-85B7-5700D1C73F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32756D8E-716A-45F5-85B7-5700D1C73F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73253869-94E2-4E3E-9068-24D639C33EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73253869-94E2-4E3E-9068-24D639C33EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73253869-94E2-4E3E-9068-24D639C33EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73253869-94E2-4E3E-9068-24D639C33EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
