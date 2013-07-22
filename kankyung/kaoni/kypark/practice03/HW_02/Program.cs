@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HK_02
+namespace HW_02
 {
     class Program
     {
         static void Main(string[] args)
         {
             int i;
-            for (i=0; i >= 0; i++)
+            for (i = 0; i >= 0; i++)
             {
                 string game = Console.ReadLine();
                 if (game == "가위")
@@ -20,7 +20,7 @@ namespace HK_02
                     {
                         Console.WriteLine("당신이 이겼습니다.");
                     }
-                    else if( (i%3)+1 == 2)
+                    else if ((i % 3) + 1 == 2)
                     {
                         Console.WriteLine("비겼습니다.");
                     }
@@ -63,7 +63,7 @@ namespace HK_02
                 {
                     i = -2;
                 }
-                
+
             }
         }
     }

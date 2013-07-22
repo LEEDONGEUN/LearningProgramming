@@ -10,12 +10,21 @@ namespace HW_01
     {
         static void Main(string[] args)
         {
+            Console.Write("2~9 사이의 숫자를 입력하세요 : ");
             int number = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= 9; i++)
+            if (number < 10 && number > 1)
             {
-                int dan = number * i;
-                Console.WriteLine("{0} X {1} = {2}", number, i, dan);
+                for (int i = 1; i <= 9; i++)
+                {
+                    int dan = number * i;
+                    Console.WriteLine("{0} X {1} = {2}", number, i, dan);
+                }
+            }
+            else
+            {
+                Console.WriteLine("2~9의 숫자를 입력하세요!");
             }
         }
     }
+
 }
