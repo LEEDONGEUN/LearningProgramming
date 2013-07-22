@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExcetionTest
+namespace ExceptionTest
 {
     class Program
     {
@@ -13,14 +13,11 @@ namespace ExcetionTest
             try
             {
                 Console.WriteLine(args[0]);
-                Console.WriteLine(args[1]);
-                Console.WriteLine(args[2]);
-           
+
             }
             catch (Exception e)
             {
-                Console.WriteLine("Exception at {0}", e.StackTrace);
-                
+                Console.WriteLine("Exception at > {0}", e.StackTrace);
 
             }
         }

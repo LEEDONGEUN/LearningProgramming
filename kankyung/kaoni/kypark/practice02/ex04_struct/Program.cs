@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ex04_struct
 {
-    struct Employee
+    class Employee
     {
         public string firstName;
         public string phone;
