@@ -2,4 +2,4 @@ nyaa~~
 
 git pull, fetch 
 
-git push -> root 폴더 에서 Git GUI, commit, push
+git push -> root 폴더 에서 Git GUI, commit, push~~~

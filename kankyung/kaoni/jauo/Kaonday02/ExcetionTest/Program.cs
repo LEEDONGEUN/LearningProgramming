@@ -13,11 +13,14 @@ namespace ExcetionTest
             try
             {
                 Console.WriteLine(args[0]);
+                Console.WriteLine(args[1]);
+                Console.WriteLine(args[2]);
            
             }
             catch (Exception e)
             {
                 Console.WriteLine("Exception at {0}", e.StackTrace);
+                
 
             }
         }
