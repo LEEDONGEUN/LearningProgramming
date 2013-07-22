@@ -12,8 +12,8 @@ namespace ex02
         {
             try
             {
+                //string string1 = "ksdjfkj";
                 Console.WriteLine(args[0]);
-
             }
             catch (Exception e)
             {
