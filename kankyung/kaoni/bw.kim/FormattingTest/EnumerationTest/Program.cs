@@ -20,7 +20,7 @@ namespace EnumerationTest
             Color colorPalette = Color.Red;
 
             Console.WriteLine("{0}", colorPalette);   // 결과값 Red
-            Console.WriteLine("{0}", (int)colorPalette);     // 결과값  10
+            Console.WriteLine("{0}", (int)colorPalette);     // 결과값  10, 강제 형변환
 
         }
     }
