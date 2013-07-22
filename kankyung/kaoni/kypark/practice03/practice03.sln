@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex06_method", "ex06_method\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_01", "HW_01\HW_01.csproj", "{05B7325A-D4D5-431D-B9E0-F8F82C01A035}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HK_02", "HK_02\HK_02.csproj", "{F01578E3-C526-4FED-847C-05B3B17F5B5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_02", "HK_02\HW_02.csproj", "{F01578E3-C526-4FED-847C-05B3B17F5B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
