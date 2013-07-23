@@ -18,10 +18,10 @@ namespace Ceasor
 
                 for ( ; ; )
                 {
-                    int com = (++i % 3) + 1;
+                    int com = ((++i) % 3) + 1;
 
                     var mm = Console.ReadLine();
-
+                    
                     hu.Human = int.Parse(mm);
 
                     if (hu.Human > com && hu.Human < 4 && hu.Human > 0)
