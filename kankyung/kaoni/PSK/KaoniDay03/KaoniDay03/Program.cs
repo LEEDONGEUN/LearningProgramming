@@ -12,6 +12,7 @@ namespace KaoniDay03
 
             Console.WriteLine("{0}, {1}", dr, dv);
 
+
             var l = new LoopTest();
             //l.Setting();
 
