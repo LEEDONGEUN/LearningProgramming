@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodParameter", "MethodParameter\MethodParameter.csproj", "{A4603606-560B-43AF-93F8-5CE77991D88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arraytest", "Arraytest\Arraytest.csproj", "{DCEFDA5B-5A3B-4BAC-9CAE-FC002FD6F596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4603606-560B-43AF-93F8-5CE77991D88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4603606-560B-43AF-93F8-5CE77991D88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4603606-560B-43AF-93F8-5CE77991D88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4603606-560B-43AF-93F8-5CE77991D88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEFDA5B-5A3B-4BAC-9CAE-FC002FD6F596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEFDA5B-5A3B-4BAC-9CAE-FC002FD6F596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEFDA5B-5A3B-4BAC-9CAE-FC002FD6F596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEFDA5B-5A3B-4BAC-9CAE-FC002FD6F596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
