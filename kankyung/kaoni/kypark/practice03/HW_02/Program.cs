@@ -10,10 +10,13 @@ namespace HW_02
     {
         static void Main(string[] args)
         {
+
+            Random r = new Random();
             Console.WriteLine("가위, 바위, 보, 그만 중에 하나를 입력하세요.");
             int i;
             for (i = 0; i >= 0; i++)
             {
+                int RandNumber = r.Next(0, 3);
                 string game = Console.ReadLine();
                 if (game == "그만")
                 {
@@ -21,7 +24,7 @@ namespace HW_02
                 }
                 else
                 {
-                    if ((i % 3) + 1 == 1)
+                    if ((RandNumber % 3) + 1 == 1)
                     {
                         if (game == "바위")
                         {
@@ -36,7 +39,7 @@ namespace HW_02
                             Console.WriteLine("컴퓨터 : 바위 - 당신이 이겼습니다.");
                         }
                     }
-                    else if ((i % 3) + 1 == 2)
+                    else if ((RandNumber % 3) + 1 == 2)
                     {
                         if (game == "바위")
                         {
@@ -51,7 +54,7 @@ namespace HW_02
                             Console.WriteLine("컴퓨터 : 가위 - 당신이 졌습니다.");
                         }
                     }
-                    else if ((i % 3) + 1 == 3)
+                    else if ((RandNumber % 3) + 1 == 3)
                     {
                         if (game == "바위")
                         {
