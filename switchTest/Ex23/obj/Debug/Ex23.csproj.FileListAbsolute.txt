@@ -1,0 +1,5 @@
+D:\hk\LearningProgramming\switchTest\Ex23\bin\Debug\Ex23.exe.config
+D:\hk\LearningProgramming\switchTest\Ex23\bin\Debug\Ex23.exe
+D:\hk\LearningProgramming\switchTest\Ex23\bin\Debug\Ex23.pdb
+D:\hk\LearningProgramming\switchTest\Ex23\obj\Debug\Ex23.exe
+D:\hk\LearningProgramming\switchTest\Ex23\obj\Debug\Ex23.pdb

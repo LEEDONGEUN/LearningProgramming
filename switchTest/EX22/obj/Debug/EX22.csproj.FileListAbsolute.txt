@@ -1,0 +1,6 @@
+D:\hk\LearningProgramming\switchTest\EX22\obj\Debug\EX22.csprojResolveAssemblyReference.cache
+D:\hk\LearningProgramming\switchTest\EX22\bin\Debug\EX22.exe.config
+D:\hk\LearningProgramming\switchTest\EX22\bin\Debug\EX22.exe
+D:\hk\LearningProgramming\switchTest\EX22\bin\Debug\EX22.pdb
+D:\hk\LearningProgramming\switchTest\EX22\obj\Debug\EX22.exe
+D:\hk\LearningProgramming\switchTest\EX22\obj\Debug\EX22.pdb
