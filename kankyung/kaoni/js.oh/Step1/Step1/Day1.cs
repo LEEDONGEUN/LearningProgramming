@@ -68,7 +68,7 @@ namespace Step1
             }
             catch (Exception e) 
             {
-                Console.WriteLine(e.ToString());
+                Console.WriteLine(e.StackTrace);
                 return false;
             }
         }
